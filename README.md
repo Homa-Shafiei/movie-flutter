@@ -1,5 +1,8 @@
 # movie
 
+<img src="https://github.com/Homa-Shafiei/movie-flutter/blob/main/image1.jpg" width="100" height="100">
+
+
 A new Flutter project.
 
 ## Getting Started

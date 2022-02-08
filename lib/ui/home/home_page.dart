@@ -117,7 +117,7 @@ class HomePage extends StatelessWidget {
             scrollDirection: Axis.horizontal,
             itemCount: verticalMovies.length,
             itemBuilder: (BuildContext ctx, int index) {
-              return Padding(
+              return Container(
                 padding: EdgeInsets.all(xxSmallSize(context)),
                 child: Stack(
                   children: [
